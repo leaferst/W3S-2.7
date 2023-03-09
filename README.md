@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# JS Modularization
 
 ## Dependencies
 
@@ -10,10 +10,12 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- What modularization is and why it is used
+- The difference between CommonJS and ES6 modules
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Create modules using require and module.export
+- Create modules using import and export
 
 
 ## Lesson Plan
