@@ -10,12 +10,16 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- What modularization is and why it is used
+- Conceptually about software modularization.
+- What is CommonJS and ES6 modules
 - The difference between CommonJS and ES6 modules
+- What is package.json and npm
+
 
 Learners will be able to:
-- Create modules using require and module.export
-- Create modules using import and export
+- Work with require and module.exports (CommonJS).
+- Work with import and export (ES6).
+- Utilize a dependency installed with npm.
 
 
 ## Lesson Plan
