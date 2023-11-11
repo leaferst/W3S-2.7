@@ -1,9 +1,8 @@
 {
-  "name": "es6",
+  "name": "2.7-js-modules",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
@@ -11,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "convert-excel-to-json": "^1.7.0"
   }
 }
